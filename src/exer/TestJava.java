@@ -7,7 +7,7 @@ public class TestJava {
 		int score = 100;
 		
 		if(score < 50) {
-			System.out.println("첫번째 조건의 결과가 참입니다!!");
+			System.out.println("첫번째 조건의 결과가 참입니다!!");//주석
 			//System.out.println("첫번째 조건의 결과가 참입니다!!");			
 		} else if(score < 60) {
 			System.out.println("두번째 조건의 결과가 참입니다!!");
